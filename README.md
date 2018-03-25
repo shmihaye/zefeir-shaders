@@ -12,4 +12,4 @@ Video: https://youtu.be/xooa8Qk1pPA
 
 Presentation from 3/13: https://docs.google.com/presentation/d/18IyQMLLk7j9NWn8f0pq6JhdpBw4IENKoZiEuEVmLlPM/edit?usp=sharing
 
-Code and SIGGRAPH Paper are in the repo. Here is the full project code (warning: large download!): https://drive.google.com/open?id=11P4ujTF_yCNksJEdU1M2GjuGsLOyXce8
+Code and SIGGRAPH Paper are in the repo. Here is a download link for the project code: https://drive.google.com/open?id=11P4ujTF_yCNksJEdU1M2GjuGsLOyXce8
